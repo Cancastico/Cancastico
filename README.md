@@ -1,0 +1,4 @@
+- Hello!
+- Sou o Carlos, Bem vindos ao meu perfil Github.
+- Aqui Demonstro alguns projetos meus que vim executando durante algum tempo, Estou focado em estudar desenvolvimento front-End com as tecnologias de JS.
+- Sou Estudante de Ciencias da Computação && Busco virar desenvolvedor!
